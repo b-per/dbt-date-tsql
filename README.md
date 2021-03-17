@@ -1,0 +1,1 @@
+Shim for dbt-date for TSQL (SQL Server, Azure SQL DB, Azure Synapse)
