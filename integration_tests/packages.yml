@@ -1,0 +1,5 @@
+packages:
+  - local: ../
+  - local: ../dbt-date
+  - package: dbt-msft/tsql_utils
+    version: 0.6.5
