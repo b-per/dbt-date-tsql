@@ -1,6 +1,6 @@
-# dbt-date-tsql
+# This repo is now Archived. SQL Server support for [`dbt date`](https://github.com/calogica/dbt-date) is part of the package [`tsql-utils`](https://github.com/dbt-msft/tsql-utils)
 
-*This package is still in development*
+# dbt-date-tsql
 
 This [dbt](https://github.com/fishtown-analytics/dbt) package contains macros for supporting [`dbt date`](https://github.com/calogica/dbt-date) on SQL Server and Azure SQL DB.
 
